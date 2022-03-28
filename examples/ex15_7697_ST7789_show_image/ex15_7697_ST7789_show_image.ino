@@ -6,7 +6,7 @@
 // 圖片的 .c 檔案，由 http://www.rinkydinkelectronics.com/t_imageconverter565.php 轉出
 // 圖片大小建議為 220 x 220
 
-// 需要的 library : Adafruit-GFX-Library-7697 , Arduino-ST7789-Library-spi9bit 
+// 需要的 library : Adafruit-GFX-Library-7697 , Arduino-ST7789-Library-7697
 // FB : https://www.facebook.com/mason.chen.1420
 
 #include <Adafruit_GFX.h>    // Core graphics library
